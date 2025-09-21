@@ -9,7 +9,7 @@ export const portfolioData = {
     linkedin: "https://www.linkedin.com/in/fathima-hisa-faiyaz-b12aba239/",
     thesis: "http://hv.diva-portal.org/smash/record.jsf?pid=diva2:1886498",
     cv_url: "https://customer-assets.emergentagent.com/job_2622c647-fde3-4919-956d-768628b8122a/artifacts/73be1viu_Fathima%20Hisa_Faiyaz_CV.pdf",
-    image: "/api/placeholder/400/500" // Placeholder image
+    image: "https://customer-assets.emergentagent.com/job_robotics-resume/artifacts/b23w2ods_download.png" // Your professional photo
   },
   
   about: {
