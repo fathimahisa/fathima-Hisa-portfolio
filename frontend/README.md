@@ -1,70 +1,137 @@
-# Getting Started with Create React App
+# Fathima Hisa Faiyaz - Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A sophisticated, modern portfolio website showcasing expertise in AI & Automation Engineering and Research.
 
-## Available Scripts
+## 🚀 Live Demo
 
-In the project directory, you can run:
+Visit the live portfolio: [Coming Soon]
 
-### `npm start`
+## 🛠️ Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React 19** - Modern React with latest features
+- **Tailwind CSS** - Utility-first CSS framework
+- **Radix UI** - Low-level UI primitives for design systems
+- **Lucide React** - Beautiful & consistent icons
+- **Framer Motion** - Smooth animations and transitions
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✨ Features
 
-### `npm test`
+- **Responsive Design** - Optimized for all devices
+- **Glass Morphism** - Modern glass effects and backdrop blur
+- **Interactive Animations** - Subtle micro-interactions
+- **Professional Layout** - Clean, academic-focused design
+- **SEO Optimized** - Meta tags and semantic HTML
+- **Fast Performance** - Optimized builds and lazy loading
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎨 Design Philosophy
 
-### `npm run build`
+- Single color accent (Blue) for professional consistency
+- Glass morphism effects for modern appeal
+- Subtle animations for enhanced user experience
+- Academic credibility with contemporary aesthetics
+- Optimized for research and tech industry standards
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📱 Sections
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Hero** - Introduction with professional photo and CTA
+2. **About** - Academic background and research interests
+3. **Education & Research** - Academic journey and thesis work
+4. **Projects** - Key research projects and implementations
+5. **Experience** - Professional work timeline
+6. **Skills** - Technical expertise and tools
+7. **Contact** - Professional contact information
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🚀 Quick Start
 
-### `npm run eject`
+### Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Node.js 18+ 
+- npm or yarn
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clone the repository
+```bash
+git clone https://github.com/[your-username]/fathima-portfolio.git
+cd fathima-portfolio
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. Install dependencies
+```bash
+npm install
+# or
+yarn install
+```
 
-## Learn More
+3. Start the development server
+```bash
+npm start
+# or
+yarn start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📦 Build & Deploy
 
-### Code Splitting
+### Build for Production
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm run build
+# or
+yarn build
+```
 
-### Analyzing the Bundle Size
+### Deploy to Vercel
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Push your code to GitHub
+2. Connect your repository to Vercel
+3. Deploy automatically with every commit
 
-### Making a Progressive Web App
+### Manual Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+# Install Vercel CLI
+npm i -g vercel
 
-### Advanced Configuration
+# Deploy
+vercel --prod
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🔧 Configuration
 
-### Deployment
+### Environment Variables
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Create a `.env.local` file in the root directory:
 
-### `npm run build` fails to minify
+```env
+# Add any environment variables if needed
+REACT_APP_ANALYTICS_ID=your_analytics_id
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Customization
+
+- **Colors**: Edit `tailwind.config.js` for color scheme changes
+- **Content**: Update `src/mock.js` for personal information
+- **Styling**: Modify components in `src/components/`
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👩‍💻 Author
+
+**Fathima Hisa Faiyaz**
+- Email: hisafaiyaz91@gmail.com
+- LinkedIn: [Fathima Hisa Faiyaz](https://www.linkedin.com/in/fathima-hisa-faiyaz-b12aba239/)
+- Research: [Master's Thesis](http://hv.diva-portal.org/smash/record.jsf?pid=diva2:1886498)
+
+## 🙏 Acknowledgments
+
+- University West for academic foundation
+- RISE Research Institutes of Sweden for research opportunities
+- Open source community for amazing tools and libraries
+
+---
+
+Built with ❤️ for advancing AI & Automation research
