@@ -1,7 +1,6 @@
 {
   "short_name": "Fathima Portfolio",
   "name": "Fathima Hisa Faiyaz - AI & Automation Engineer Portfolio",
-  "description": "Professional portfolio showcasing AI & Automation Engineering expertise and research",
   "icons": [
     {
       "src": "favicon.ico",
@@ -12,8 +11,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#0f172a",
-  "background_color": "#0f172a",
-  "orientation": "portrait-primary",
-  "categories": ["portfolio", "professional", "ai", "research"],
-  "lang": "en"
+  "background_color": "#0f172a"
 }

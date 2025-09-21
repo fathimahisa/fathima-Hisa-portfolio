@@ -1,7 +1,7 @@
-import React from "react";
-import "./App.css";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Portfolio from "./components/Portfolio";
+import React from 'react';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import './App.css';
+import Portfolio from './Portfolio';
 
 function App() {
   return (
