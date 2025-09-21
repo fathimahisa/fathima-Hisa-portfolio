@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://fathima-portfolio.vercel.app/sitemap.xml
+
+# Allow search engines to index all content
+# Portfolio is meant to be discoverable
